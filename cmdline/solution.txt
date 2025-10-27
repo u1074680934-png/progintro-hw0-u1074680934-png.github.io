@@ -2,3 +2,4 @@ u1074680934-png
 byte0: you_just_mastered_changing_directories
 byte2: grep_and_you_will_find
 byte3: programmers
+byte4: the_triwizard_cup_is_now_yours
