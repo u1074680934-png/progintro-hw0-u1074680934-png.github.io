@@ -13,3 +13,9 @@ The diff command is used to display the line that contains the word which differ
 byte4: By using the ls command, the name of files and folders are displayed. The cd is used to enter the MAZE folder.With the tree -f command, the full path of all files within the
 folder is displayed. The file cup.txt is visible, and by using cd, the path is followed through the folders left,right and 8, listing contents with ls at each step. Then the cat command
 is applied to cup.txt which reveals the answer.
+
+byte5: The /tmp folder is opened with cd and by using the command mkdir -r a subfolder named folder2 is 
+created. By using cd .. and ls the original folder /home is checked and the byte5 folder is found. 
+Then by using cp -r it is copied to /tmp and then to folder2. Inside byte5, the files byte5 and byte5.c are 
+displayed. The source file is compiled with gcc and run with ./byte5. When the message Usage appears i add 
+<SDI> next to ./byte5 and then execute again the command, the answer will apear.
