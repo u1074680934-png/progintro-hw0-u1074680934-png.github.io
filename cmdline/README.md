@@ -18,4 +18,4 @@ byte5: The /tmp folder is opened with cd and by using the command mkdir -r a sub
 created. By using cd .. and ls the original folder /home is checked and the byte5 folder is found. 
 Then by using cp -r it is copied to /tmp and then to folder2. Inside byte5, the files byte5 and byte5.c are 
 displayed. The source file is compiled with gcc and run with ./byte5. When the message Usage appears i add 
-<SDI> next to ./byte5 and then execute again the command, the answer will apear.
+<SDI> next to ./byte5 and then execute again the command, the answer will apear..
